@@ -6,16 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-[![An old rock in the desert](assests/Khalad_GitHub.gif "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/khalad007/khalad007/main/Khalad_GitHub.gif)
+[![An old rock in the desert](assests/GitHub_Banner.gif "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/khalad007/khalad007/main/Khalad_GitHub.gif)
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=onedark-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<h3>Greetings! 👋 I am Khalad Shifullah.</h3>
 
 <h3 align="center">MERN Stack Developer</h3>
 
-<h3 align="left">Connect with me: <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+<h3 align="left">Connect with me : <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></h3>
 <p align="left">
 </p>
 
