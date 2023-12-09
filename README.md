@@ -1,20 +1,22 @@
-### Hi there 👋
-
 
 [![An old rock in the desert](assests/GitHub_Banner.gif "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/khalad007/khalad007/main/Khalad_GitHub.gif)
 
+<h2 align="center">MERN Stack Developer</h2>
 <h3>I am Khalad Shifullah.A dedicated and enthusiastic Diploma Engineer in Computer Science. My journey in technology has equipped me with a strong foundation in the MERN stack, including expertise in HTML, CSS, JSX, Tailwind CSS, and DaisyUI.</h3>
 
-<h2 align="center">MERN Stack Developer</h2>
+
+<h3 align="left">Connect with me : <br>
+<p align="left"> 
+ <a href="https://www.linkedin.com/in/khaladshifullah/" target="_blank" rel="noreferrer"> <img src="assests/linkedin.png" alt="git" width="40" height="40"/> </a> <a href="https://www.facebook.com/profile.php?id=100094911747880&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <img src="assests/facebook.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assests/telegram.png" alt="javascript" width="40" height="40"/>
+  </p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
-<h3 align="left">Connect with me : <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
