@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me : <br>
 <p align="left"> 
  <a href="https://www.linkedin.com/in/khaladshifullah/" target="_blank" rel="noreferrer"> <img src="assests/linkedin.png" alt="git" width="40" height="40"/> </a> <a href="https://www.facebook.com/profile.php?id=100094911747880&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <img src="assests/facebook.png" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.facebook.com/profile.php?id=100094911747880&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <img src="assests/gmail.png" alt="html5" width="40" height="40"/> </a> <a href="mailto:abirjr78@gmail.com" target="_blank" rel="noreferrer"> <img src="assests/telegram.png" alt="javascript" width="40" height="40"/>
+ <a href="mailto:abirjr78@gmail.com" target="_blank" rel="noreferrer"> <img src="assests/gmail.png" alt="html5" width="40" height="40"/> </a>
   </p>
 
 
@@ -36,12 +36,9 @@
 
 ![Hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalad007&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 👯 I’m looking to collaborate on ... Any isteresting Project Related to MERN.
+- 💬 Ask me about ... MERN
+- 📫 How to reach me: ... abirjr78@gmail.com
+- ⚡ Fun fact: ...  My First goole search was " How to Hack Fackbook "
 
