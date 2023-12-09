@@ -11,6 +11,7 @@
  <a href="mailto:abirjr78@gmail.com" target="_blank" rel="noreferrer"> <img src="assests/gmail.png" alt="html5" width="40" height="40"/> </a>
   </p>
 
+<h3 align="left">🔥My GitHub Activity Streak <br> <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
