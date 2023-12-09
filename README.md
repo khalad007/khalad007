@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/khalad007/langs?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=onedark-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalad007 &theme=apprentice)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
