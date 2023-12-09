@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**khalad007/khalad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 [![An old rock in the desert](assests/GitHub_Banner.gif "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/khalad007/khalad007/main/Khalad_GitHub.gif)
 
-<h3>Greetings! 👋 I am Khalad Shifullah.</h3>
+<h3>I am Khalad Shifullah.A dedicated and enthusiastic Diploma Engineer in Computer Science. My journey in technology has equipped me with a strong foundation in the MERN stack, including expertise in HTML, CSS, JSX, Tailwind CSS, and DaisyUI.</h3>
 
-<h3 align="center">MERN Stack Developer</h3>
+<h2 align="center">MERN Stack Developer</h2>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalad007&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
