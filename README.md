@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalad007&show_icons=true&locale=en" alt="khalad007" /></p>
 
-
-![H](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalad007&theme=vue)
+![Hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalad007&theme=transparent)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
